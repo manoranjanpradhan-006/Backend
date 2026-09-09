@@ -1,4 +1,3 @@
-import dns from "dns";
 import { execSync } from "child_process";
 
 import dns from "dns";
